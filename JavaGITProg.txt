@@ -6,7 +6,7 @@ Scanner sc=new Scanner(System.in);
 int a=sc.nextInt();
 String name=sc.next();
 if(a>=21){
-System.out.println("Eligible to watch Netflix);
+System.out.println("Eligible to watch Netflix");
 }
 }
 }
